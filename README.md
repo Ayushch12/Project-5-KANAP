@@ -44,13 +44,3 @@ The config file allows to define the base address of the server, with its host, 
 
 <sub>*Warning, the architecture used in this example is a level much higher than expected on this project. Copying this code would result in a high risk of detection of plagiarism in the defense.*</sub>
 
-# training-dev
-
-<p align="center">
-<a href="https://www.training-dev.fr" target="_blank">
-   <img width="400" src="https://user-images.githubusercontent.com/75472004/135489506-7739b723-4e48-4439-a4e3-9932ee269aed.png">
-</a>
-</p>
-<p align="center">
-   Find all our courses, tutorials, lives and exercises on <a href="https://www.training-dev.fr" target="_blank">training-dev.fr</a>
-</p>
