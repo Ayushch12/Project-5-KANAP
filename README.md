@@ -37,7 +37,7 @@ products: [<string>]
 products being an array of product id.
 
 ## Front-end
-The frontend presents the user part of the application. It must be launched with a local server (live server with vscode for example), and requires that the backend is also launched to function correctly.
+The frontend present the user part of the application. It must be launched with a local server (live server with vscode for example), and requires that the backend is also launched to function correctly.
 
 ### Setup
 The config file allows to define the base address of the server, with its host, port and if an ssl certificate is used or not.
