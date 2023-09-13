@@ -4,7 +4,7 @@
    <img src="https://user.oc-static.com/upload/2021/09/29/16329291678171_image2.png">
 </p>
 
-## Backend
+##  Backend
 The back folder is used to run the API containing the product data.
 ### Facility
 Just position yourself in the backend folder with a terminal and enter the command ```npm install```
